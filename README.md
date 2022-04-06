@@ -18,7 +18,7 @@ beberapa variabel yang tersedia pada dataset
 
 # step of project
 
-- eaning data = membersihkan data dari missing value dan duplikasi data
+- cleaning data = membersihkan data dari missing value dan duplikasi data
 
 - sualization data = melakukan analisa dari dataset
 
