@@ -18,11 +18,11 @@ beberapa variabel yang tersedia pada dataset
 
 # step of project
 
-- cleaning data = membersihkan data dari missing value dan duplikasi data
+- Cleansing data = membersihkan data dari missing value dan duplikasi data
 
-- sualization data = melakukan analisa dari dataset
+- Exploratory data analysis = melakukan analisa dari dataset
 
-- ature Engineering = proses pengolahan data untuk memilih variabel yang cocok sebelum memasuki ML, pada dataset ini, dilakukan binary encoder dan on hot encoding
+- Feature Engineering = proses pengolahan data untuk memilih variabel yang cocok sebelum memasuki Machine Learning, pada dataset ini, dilakukan binary encoder dan on hot encoding
 
-- chine Learning = pada dataset ini bertujuan untuk menganalisa dan memprediksi harga insurance dengan menggunakan permodelan Lasso Regression
+- Machine Learning = pada dataset ini bertujuan untuk menganalisa dan memprediksi harga insurance dengan menggunakan permodelan Lasso Regression
 
